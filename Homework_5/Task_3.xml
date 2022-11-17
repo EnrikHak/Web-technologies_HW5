@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <film>
+        <name>Ходячие мертвецы</name>
+        <year>2010</year>
+        <platform>AMC</platform>
+        <country>США</country>
+        <genre>Ужасы, триллер, драмма</genre>
+        <category>18+</category>
+    </film>
+    <film>
+        <name>Очень странные дела</name>
+        <year>2016</year>
+        <platform>Netflix</platform>
+        <country>США</country>
+        <genre>Ужасы, триллер, фантастика, фэнтази</genre>
+        <category>16+</category>
+    </film>
+    <film>
+        <name>ОНО</name>
+        <year>2017</year>
+        <platform>Нет</platform>
+        <country>США, Канада</country>
+        <genre>Ужасы, триллер, фантастика, фэнтази</genre>
+        <category>18+</category>
+    </film>
+    <film>
+        <name>Поезд в Пусан</name>
+        <year>2016</year>
+        <platform>Нет</platform>
+        <country>Южная Корея</country>
+        <genre>Ужасы, боевик</genre>
+        <category>18+</category>
+    </film>
+    <film>
+        <name>Добро пожаловать в Zомбилэнд</name>
+        <year>2009</year>
+        <platform>Нет</platform>
+        <country>США</country>
+        <genre>Ужасы, комедия, боевик</genre>
+        <category>18+</category>
+    </film>
+</catalog>
