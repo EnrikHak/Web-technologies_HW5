@@ -1,0 +1,13 @@
+{
+	"person" :
+	[
+		{
+			"surname" : "Ivanov",
+			"name" : "Ivan",
+			"patronymic" : "Ivanovich",
+			"birthdate" : "01.01.1990",
+			"birthplace" : "Moscov",
+			"phone" : "8 926 766 48 48"
+		} 
+	]
+}
